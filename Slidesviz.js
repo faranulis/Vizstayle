@@ -5,10 +5,6 @@ function FeaturedPost(a) {
             MaxPost: 5,
             idcontaint: "#featuredpost",
             ImageSize: 500,
-            interval: 10000,
-            autoplay: false,
-            loadingClass: "loadingxx",
-            pBlank: "http://3.bp.blogspot.com/-v45kaX-IHKo/VDgZxWv0xUI/AAAAAAAAHAo/QJQf8Dlh3xc/s1600/grey.gif",
             MonthNames: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
             tagName: false
         };

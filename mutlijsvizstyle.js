@@ -11,3 +11,5 @@ $(document).ready(function(){$(&#39;.navbar-fostrap&#39;).click(function(){$(&#3
 $(document).ready(function(){FeaturedPost()})
 /*pagenum*/
 var postperpage=7;var numshowpage=3;var upPageWord =&#39;Prev&#39;;var downPageWord =&#39;Next&#39;;var urlactivepage=location.href;var home_page=&quot;/&quot;;
+/*fbroot*/
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src=&#39;https:fjs.parentNode.insertBefore(js,fjs)}(document,&#39;script&#39;,&#39;facebook-jssdk&#39;))
